@@ -1,0 +1,29 @@
+body {
+    background-color: #FAF3E3
+}
+
+.Image {
+    text-align: center;
+    display: block;
+}
+
+.Line {
+    color:cornflowerblue
+}
+
+.Heading {
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Paragraph {
+
+    display: block;
+    color: tomato;
+}
+
+.clr {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif
+}
